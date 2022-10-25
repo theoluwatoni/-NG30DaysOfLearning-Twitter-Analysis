@@ -55,6 +55,7 @@ After scraping the required columns/features for this particular project, it was
 You can access the Python file used for the scraping here.
 The csv file was now loaded into PowerBI and some data manipulations were observed here. The Date column had to be split into its respective years, months, dates(1-31), day of the week and time.
 The location column was really untidy because some locations that users have do not exist, e.g. 'everywhere', 'migrating', etc. Also, it was noticed that in most instances, the location column was filled as states, then country while others were just blank. Since some users were not in Nigeria, only the states were extracted and used as location to form a new column called 'New Location'.
+Here is the Python file used to [scrape]([url](https://github.com/theoluwatoni/-NG30DaysOfLearning-Twitter-Analysis/blob/main/clean_twitter_data.csv)) the tweets.
 
 ## 4. REPORT DESIGN
 The layout for this report was created using Figma, a design tool that enables you to create designs for mobile and web interfaces as well as any other kind of design you can think of. After choosing the queries to be answered and the reports to use, several card designs were created for each viz and integrated into a single design. The Figma icon plugin iconify is where all of the icons used in this report were acquired from. Color schemes and shades were selected from adobe.color.com. You can access all necessary images and icons [here](https://github.com/theoluwatoni/-NG30DaysOfLearning-Twitter-Analysis/tree/main/images%20and%20icons).
