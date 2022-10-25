@@ -57,10 +57,11 @@ The csv file was now loaded into PowerBI and some data manipulations were observ
 The location column was really untidy because some locations that users have do not exist, e.g. 'everywhere', 'migrating', etc. Also, it was noticed that in most instances, the location column was filled as states, then country while others were just blank. Since some users were not in Nigeria, only the states were extracted and used as location to form a new column called 'New Location'.
 
 ## 4. REPORT DESIGN
-The layout for this report was created using Figma, a design tool that enables you to create designs for mobile and web interfaces as well as any other kind of design you can think of. After choosing the queries to be answered and the reports to use, several card designs were created for each viz and integrated into a single design. The Figma icon plugin iconify is where all of the icons used in this report were acquired from. Color schemes and shades were selected from adobe.color.com. You can access all necessary images and icons here.
+The layout for this report was created using Figma, a design tool that enables you to create designs for mobile and web interfaces as well as any other kind of design you can think of. After choosing the queries to be answered and the reports to use, several card designs were created for each viz and integrated into a single design. The Figma icon plugin iconify is where all of the icons used in this report were acquired from. Color schemes and shades were selected from adobe.color.com. You can access all necessary images and icons [here](https://github.com/theoluwatoni/-NG30DaysOfLearning-Twitter-Analysis/tree/main/images%20and%20icons).
 
 
 And here is what the final combined report design looks like:
+![image](https://user-images.githubusercontent.com/112688755/197814544-cd9c126a-6057-4b37-8d1d-757159ae4efa.png)
 
 
 ## 5. FINDINGS
@@ -74,4 +75,4 @@ And here is what the final combined report design looks like:
 
 ## 6. CONCLUSION
 I had a lot of fun learning new concepts and doing new things. If you want to replicate, I hope my documentation is clear enough for you to comprehend. I've included all necessary details to help you do that. You are welcome to change my scripts or designs to create something more beautiful. If you do, kindly mention me on Twitter by using the handle @superweirdpm. 🚀
-To view the report's complete functionality and User Experience, explore the interactive session.
+To view the report's complete functionality and User Experience, explore the [interactive session](https://app.powerbi.com/view?r=eyJrIjoiOGIyZWJmY2YtMmI3OC00MjRlLTk3ODYtMDM1YTNlM2U1NTAwIiwidCI6ImYxMDIxMjliLTQwMjUtNDFlOC05ZDAyLThlMzRmNmE1ZjQyNCJ9).
